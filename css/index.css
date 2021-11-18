@@ -1,0 +1,14 @@
+/* Components */
+@import url("./calculator.css");
+
+/* Globals */
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Roboto Mono", monospace;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(to bottom, #f9544c 50%, #090c31 50%);
+}
